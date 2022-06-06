@@ -40,4 +40,10 @@ Business Office Administration
     Graduate Readiness Seminar
 
 Business Administration vs. Finance Degree: Comparing the Differences
-A degree in business administration or finance can lead to opportunities in both large and small organizations in the public and private sectors. Both degrees also provide a solid foundation and are good preparation for entrepreneurs who want to start their own businesses. 
+    A degree in business administration or finance can lead to opportunities in both large and small organizations in the public and private sectors. Both degrees also provide a solid foundation and are good preparation for entrepreneurs who want to start their own businesses. 
+
+What is a finance degree?
+    A finance degree focuses on how financial institutions and investments work. This degree will equip you with the knowledge you need to advise clients on financial issues and investment strategies. With this degree, you'll have the opportunity to specialize in areas such as corporate finance, behavioral finance and financial evaluation.
+
+What is a business administration degree?
+     business administration degree focuses on the principles of business management, including the people and processes involved. This degree covers a variety of business subjects, from accounting and marketing to advertising. It equips you with the skills you need to take on various managerial and administrative roles. With a degree in business administration, you'll learn subjects that prepare you to work in a wide range of businesses. You'll have some flexibility within the field, as business administrators are needed in businesses of all types.
