@@ -1,18 +1,6 @@
-https://www.topcv.vn/viec-lam/it-support-assistant/556516.html?ta_source=JobListInNormalCompany 
+coursera
 
-https://www.topcv.vn/viec-lam/administrative-specialist/555563.html
-
-
-https://www.topcv.vn/viec-lam/it-support-assistant/556516.html?ta_source=JobListInNormalCompany 
+https://www.coursera.org/learn/uva-darden-project-management/lecture/hae5Z/project-success-failure
 
 
-Digital Marketing 
-
- Business Analyst 
- 
- 	    IT Helpdesk 
-        		 IT Support Assistant
-     R&D 
-   
-   Administrative officer
-     Administrative Specialist 
+https://www.coursera.org/browse/business
