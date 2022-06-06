@@ -7,3 +7,5 @@ https://www.topcv.vn/viec-lam/it-support-assistant/556516.html?ta_source=JobList
 
 
 Digital Marketing 
+
+ Business Analyst 
