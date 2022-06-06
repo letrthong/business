@@ -38,3 +38,6 @@ Business Office Administration
     Business Externship
     Computer Literacy and Applications for the Professional
     Graduate Readiness Seminar
+
+Business Administration vs. Finance Degree: Comparing the Differences
+A degree in business administration or finance can lead to opportunities in both large and small organizations in the public and private sectors. Both degrees also provide a solid foundation and are good preparation for entrepreneurs who want to start their own businesses. 
