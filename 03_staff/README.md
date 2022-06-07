@@ -148,3 +148,7 @@ Most  BA programs have a set of required core courses that will cover topics inc
     Management information systems
     Business administration and management
     Master of Business Administration
+
+
+https://www.coursera.org/articles/masters-in-management-vs-mba
+https://www.coursera.org/articles/masters-in-management-vs-mba
