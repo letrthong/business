@@ -5,38 +5,39 @@ PO - Product Owner (Business Analyst)
  IT   Business Analyst
  
  Business Analyst
+
     Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats 
-     Construct workflow charts and diagrams; studying system capabilities; writing specifications 
-     Improve systems by studying current practices; designing modifications 
-     Recommend controls by identifying problems; writing improved procedures 
-     Define project requirements by identifying project milestones, phases and elements; forming project team; establishing project budget 
-     Monitor project progress by tracking activity; resolving problems; publishing progress reports; recommending actions 
+    Construct workflow charts and diagrams; studying system capabilities; writing specifications 
+    Improve systems by studying current practices; designing modifications 
+    Recommend controls by identifying problems; writing improved procedures 
+    Define project requirements by identifying project milestones, phases and elements; forming project team; establishing project budget 
+    Monitor project progress by tracking activity; resolving problems; publishing progress reports; recommending actions 
     Maintain user confidence and protect operations by keeping information confidential 
     Prepare technical reports by collecting, analyzing and summarizing information and trends 
-     Contribute to team effort by accomplishing related results as needed 
-     Validate resource requirements and develop cost estimate models 
-     Conduct and coordinate financial, product, market, operational and related research to support strategic and business planning within the various departments  and programs of the client group
-     Interpret, evaluate and interrelate research data and develop integrated business analyses and projections for incorporation into strategic decision-making
-     Plan and coordinate the development of primary and secondary market research studies in support of strategic planning and specific marketing initiatives, as   required and presents findings of studies to client committees
+    Contribute to team effort by accomplishing related results as needed 
+    Validate resource requirements and develop cost estimate models 
+    Conduct and coordinate financial, product, market, operational and related research to support strategic and business planning within the various departments  and programs of the client group
+    Interpret, evaluate and interrelate research data and develop integrated business analyses and projections for incorporation into strategic decision-making
+    Plan and coordinate the development of primary and secondary market research studies in support of strategic planning and specific marketing initiatives, as   required and presents findings of studies to client committees
     Perform daily, weekly and monthly reviews and analyses of current processes using operational metrics and reports 
     Review a variety of areas including operations, purchasing, inventory, distribution and facilities 
-   Understand and communicate the financial and operational impact of any changes 
-     Suggest changes to senior management using analytics to support your recommendations. Actively participate in the implementation of approved changes 
+    Understand and communicate the financial and operational impact of any changes 
+    Suggest changes to senior management using analytics to support your recommendations. Actively participate in the implementation of approved changes 
     Create informative, actionable and repeatable reporting that highlights relevant business trends and opportunities for improvement 
     Conduct insightful, ad hoc analyses to investigate ongoing or one-time operational issues 
 
 
 Scrum Master
 
-     Using agile methodology values, principles, and practices to plan, manage, and deliver solutions.
-     Training, mentoring, and supporting scrum teams to follow agile values, principles, and practices.
-     Determining and managing tasks, issues, risks, and action items.
-     Scheduling and facilitating scrum events, meetings, and decision-making processes.
-     Monitoring progress and performance and helping teams to make improvements.
-     Planning and organizing demos and product/system testing.
-     Ensuring the proper use of collaborative processes and removing impediments for the scrum team.
-     Tracking project processes, deliverables, and financials.
-     Preparing and presenting status reports to stakeholders.
+    Using agile methodology values, principles, and practices to plan, manage, and deliver solutions.
+    Training, mentoring, and supporting scrum teams to follow agile values, principles, and practices.
+    Determining and managing tasks, issues, risks, and action items.
+    Scheduling and facilitating scrum events, meetings, and decision-making processes.
+    Monitoring progress and performance and helping teams to make improvements.
+    Planning and organizing demos and product/system testing.
+    Ensuring the proper use of collaborative processes and removing impediments for the scrum team.
+    Tracking project processes, deliverables, and financials.
+    Preparing and presenting status reports to stakeholders.
 
 Project Manager (Scrum Master)
     Manage projects’ scope and timeline
