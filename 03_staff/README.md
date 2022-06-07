@@ -98,3 +98,51 @@ What is a finance degree?
 
 What is a business administration degree?
      business administration degree focuses on the principles of business management, including the people and processes involved. This degree covers a variety of business subjects, from accounting and marketing to advertising. It equips you with the skills you need to take on various managerial and administrative roles. With a degree in business administration, you'll learn subjects that prepare you to work in a wide range of businesses. You'll have some flexibility within the field, as business administrators are needed in businesses of all types.
+
+
+Most  BA programs have a set of required core courses that will cover topics including:
+    Marketing.
+    Statistics.
+    Accounting.
+    Economics.
+    Finance.
+    Management.
+    
+    
+    Accounting.
+    Finance.
+    Operations.
+    Logistics.
+    Marketing.
+    Human resources.
+    Information systems.
+    Research and development.
+    Sales.
+    Customer relations.
+    Member services.
+    Fundraising/development.
+
+    Accountant.
+    Auditor.
+    Budget analyst.
+    Compensation/benefits specialist.
+    Financial analyst.
+    Personal finance advisor.
+    Market research analyst.
+    Loan officer.
+    Logistician.
+    Training and development specialist.
+    Purchasing manager.
+    Sales manager.
+    Marketing manager
+
+    Accounting
+    Marketing
+    Sales
+    Finance
+    International business
+    Human resources
+    Health services administration
+    Management information systems
+    Business administration and management
+    Master of Business Administration
