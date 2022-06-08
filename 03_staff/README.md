@@ -148,8 +148,14 @@ Most  BA programs have a set of required core courses that will cover topics inc
     Management information systems
     Business administration and management
     Master of Business Administration
-	
-	
+
+
+Business-environment	
++ Economic Elements
++ Social Elements
++ Technological Elements
++ Legal Elements
++ Environmental Elements
 https://financialyard.com/elements-of-the-business-environment/
 
 https://www.coursera.org/articles/masters-in-management-vs-mba
