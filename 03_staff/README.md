@@ -137,7 +137,7 @@ Most  BA programs have a set of required core courses that will cover topics inc
     Purchasing manager.
     Sales manager.
     Marketing manager
-
+ Financial Projections
     Accounting
     Marketing
     Sales
@@ -148,6 +148,8 @@ Most  BA programs have a set of required core courses that will cover topics inc
     Management information systems
     Business administration and management
     Master of Business Administration
+Business Models
+https://www.investopedia.com/terms/b/businessmodel.asp#:~:text=The%20term%20business%20model%20refers,both%20new%20and%20established%20businesses.
 
 
 Business-environment	
