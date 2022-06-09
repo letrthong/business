@@ -136,11 +136,11 @@ Most  BA programs have a set of required core courses that will cover topics inc
     Training and development specialist.
     Purchasing manager.
     Sales manager.
-    Marketing manager
+    Marketing manager Marketplace
  Financial Projections
-    Accounting
+    Accounting  On-DEMAND BUSINESS MODEL:
     Marketing
-    Sales
+    Sales Subscription Based Models:
     Finance
     International business
     Human resources
@@ -151,6 +151,7 @@ Most  BA programs have a set of required core courses that will cover topics inc
 Business Models
 https://www.investopedia.com/terms/b/businessmodel.asp#:~:text=The%20term%20business%20model%20refers,both%20new%20and%20established%20businesses.
 
+https://bstrategyhub.com/50-types-of-business-models-the-best-examples-of-companies-using-it/
 
 Business-environment	
 + Economic Elements
