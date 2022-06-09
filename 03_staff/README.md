@@ -2,6 +2,8 @@
 PO - Product Owner (Business Analyst)
  Business Analyst BA
  
+ Data engineer
+ 
  IT   Business Analyst
  
  Business Analyst
