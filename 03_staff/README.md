@@ -182,4 +182,13 @@ https://bstrategyhub.com/50-types-of-business-models-the-best-examples-of-compan
 https://financialyard.com/elements-of-the-business-environment/
 
 https://www.coursera.org/articles/masters-in-management-vs-mba
-https://www.coursera.org/articles/masters-in-management-vs-mba
+ 
+
+# ERP software
+Human Resources
+Financial Accounting
+Supply Chain Management
+Customer Relationship Management
+Inventory
+Purchasing
+Project management
