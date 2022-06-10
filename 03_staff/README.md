@@ -185,20 +185,20 @@ https://www.coursera.org/articles/masters-in-management-vs-mba
  
 
 # ERP software
-Human Resources
-Financial Accounting
-Supply Chain Management
-Customer Relationship Management
-Inventory
-Purchasing
-Project management
+    Human Resources
+    Financial Accounting
+    Supply Chain Management
+    Customer Relationship Management
+    Inventory
+    Purchasing
+    Project management
 
 
 
-People
-Business Process
-Software
-Culture
-Information
-Consultants
-Technology
+    People
+    Business Process
+    Software
+    Culture
+    Information
+    Consultants
+    Technology
