@@ -1,14 +1,10 @@
 
-PO - Product Owner (Business Analyst)
- Business Analyst BA
- 
- Data engineer
- 
- IT   Business Analyst
+ # Business Analyst(BA)
+ PO - Product Owner (Business Analyst)
  
  Business Analyst
-
-    Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats 
+IT   Business Analyst
+     Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats 
     Construct workflow charts and diagrams; studying system capabilities; writing specifications 
     Improve systems by studying current practices; designing modifications 
     Recommend controls by identifying problems; writing improved procedures 
@@ -28,8 +24,9 @@ PO - Product Owner (Business Analyst)
     Create informative, actionable and repeatable reporting that highlights relevant business trends and opportunities for improvement 
     Conduct insightful, ad hoc analyses to investigate ongoing or one-time operational issues 
 
-
-Scrum Master
+ # Data engineer
+ 
+ # Scrum Master
 
     Using agile methodology values, principles, and practices to plan, manage, and deliver solutions.
     Training, mentoring, and supporting scrum teams to follow agile values, principles, and practices.
@@ -41,7 +38,7 @@ Scrum Master
     Tracking project processes, deliverables, and financials.
     Preparing and presenting status reports to stakeholders.
 
-Project Manager (Scrum Master)
+ # Project Manager (Scrum Master)
     Manage projects’ scope and timeline
     Coordinate sprints, retrospective meetings and daily stand-ups
     Coach team members in Agile/Scrum frameworks
@@ -52,7 +49,7 @@ Project Manager (Scrum Master)
     Ensure deliverables are up to quality standards at the end of each sprint
 
 
-Administrative Specialist
+ # Administrative Specialist
 
 
 https://inside.lanecc.edu/hr/classification/administrative-specialist#:~:text=An%20Administrative%20Specialist%20works%20under,and%20coordinate%20tasks%20to%20completion.
@@ -61,13 +58,14 @@ https://www.missouristate.edu/human/jobdescriptions/3625-administrative-speciali
 
 
 
-Digital marketing
+ # Digital marketing
 
-Finance- Investment 
+ # Finance- Investment 
 
 
-Sales
+ # Sales
 
+# 
  Business Administration 
  Master of Business Administration(MBA)
 
