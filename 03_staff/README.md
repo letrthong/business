@@ -5,8 +5,8 @@
 Business Analyst
 
 IT Business Analyst
-**
-     Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats 
+
+    Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats 
     Construct workflow charts and diagrams; studying system capabilities; writing specifications 
     Improve systems by studying current practices; designing modifications 
     Recommend controls by identifying problems; writing improved procedures 
@@ -25,7 +25,7 @@ IT Business Analyst
     Suggest changes to senior management using analytics to support your recommendations. Actively participate in the implementation of approved changes 
     Create informative, actionable and repeatable reporting that highlights relevant business trends and opportunities for improvement 
     Conduct insightful, ad hoc analyses to investigate ongoing or one-time operational issues 
-**
+
  # Data engineer
  
  # Scrum Master
