@@ -202,3 +202,6 @@ https://www.coursera.org/articles/masters-in-management-vs-mba
     Information
     Consultants
     Technology
+
+# a business audit
+https://bionic.co.uk/business-essentials/guides/business-audit/
