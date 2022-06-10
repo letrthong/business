@@ -192,3 +192,13 @@ Customer Relationship Management
 Inventory
 Purchasing
 Project management
+
+
+
+People
+Business Process
+Software
+Culture
+Information
+Consultants
+Technology
