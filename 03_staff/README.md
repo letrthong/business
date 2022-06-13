@@ -205,3 +205,6 @@ https://www.coursera.org/articles/masters-in-management-vs-mba
 
 # a business audit
 https://bionic.co.uk/business-essentials/guides/business-audit/
+
+
+https://www.amazon.jobs/en/jobs/1888793/software-development-engineer-aws-simple-queue-service
